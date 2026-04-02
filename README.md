@@ -123,12 +123,11 @@ This project shows how hashing can be integrated with classical encryption techn
 <img width="938" height="523" alt="image" src="https://github.com/user-attachments/assets/1a284cb0-f1cc-4ab5-b33d-35a16c30895e" />
 
 ## Prompts
-"Give algorithm and code for implementing Caesar cipher using hashing and hash function with explanation."
-"Provide Python code for Caesar cipher using hashing."
-"Are there collisions in this hash function?"
-"Explain hashing and hash functions in detail."
-"Give an improved hash function with better distribution."
-"Explain polynomial rolling hash with example."
-"Provide step-by-step algorithm for encryption and decryption using hash-based Caesar cipher."
-"Why is my output different?"
-"Help debug incorrect shift value and encryption result."
+Give algorithm and code for implementing Caesar cipher using hashing and hash function with explanation.
+Are there collisions in this hash function?
+Explain hashing and hash functions in detail.
+Give an improved hash function with better distribution.
+Explain polynomial rolling hash with example.
+Provide step-by-step algorithm for encryption and decryption using hash-based Caesar cipher.
+Why is my output different?
+Help debug incorrect shift value and encryption result.
