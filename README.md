@@ -102,3 +102,6 @@ plaintext → encryption → decryption → original text
 ## ✅ Conclusion
 
 This implementation demonstrates how a hash function can be combined with a classical encryption technique to dynamically generate keys, making the cipher more flexible than a fixed-shift Caesar Cipher.
+
+<img width="938" height="523" alt="image" src="https://github.com/user-attachments/assets/1a284cb0-f1cc-4ab5-b33d-35a16c30895e" />
+
